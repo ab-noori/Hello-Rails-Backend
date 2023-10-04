@@ -1,11 +1,11 @@
-class GreetingsController < ApplicationController
+class Api::GreetingsController < ApplicationController
   before_action :set_greeting, only: %i[show update destroy]
 
   # GET /greetings
   def index
-    @greetings = Greeting.all
+    @greeting = Greeting.all.order('random()').first
 
-    render json: @greetings
+    render json: { greeting: @greeting.message }
   end
 
   # GET /greetings/1
