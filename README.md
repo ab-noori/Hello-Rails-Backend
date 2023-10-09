@@ -1,10 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> # EduPlanner Backend
+> # Hello Rails Backend
 
-| EduPlanner Schema ERD |
-|---------------------------------------|
-|<div align="center" width="auto"><img alt="Finance-Tracker login" src="edu-erd.png"/></div>|
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -70,7 +67,7 @@ In order to run this project you need:
 2. Install Rails
 3. Clone this repo
 ```
-git clone https://github.com/ab-noori/EduPlanner-Backend.git
+git clone https://github.com/ab-noori/Hello-Rails-Backend.git
 ```
 
 To run the project, execute the following command:
@@ -129,7 +126,7 @@ rails db:seed
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ab-noori/EduPlanner-Backend/issues).
+Feel free to check the [issues page](https://github.com/ab-noori/Hello-Rails-Backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
