@@ -13,7 +13,6 @@
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -24,7 +23,7 @@
 
 # 📖 Hello-Rails-Backend <a name="about-project"></a>
 
-**Hello-Rails-Backend:** This project involves the creation of a React application. It includes implementing a routing system using 'react-router,' setting up a 'Greeting' component as a route within the 'App' component, and integrating Redux to fetch and display random greetings from an API endpoint.
+**Hello-Rails-Backend:** This is the Backend API for the Hello-React-frontend web application project. A rails-based backend solution to storing greeting messages for the web application.
 
 # Front End React app link <a name="FrontEnd-link"></a>
 
@@ -42,14 +41,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Store data for the EduPlanner website**
-- **Provide Api endpoints for data Entry**
-- **Provide server side validations**
+- **Store data for the Hello-React website**
+- **Provide API endpoints for data retrieval**
+- **Provide server-side validations**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-This feature has not yet been implemented!
+This feature has not been implemented!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,9 +58,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 In order to run this project you need:
-  * A basic understanding of Ruby, Rails and Git
-  * A postgresql connection
-  * Create some data before running to see Greatings
+  * A basic understanding of Ruby, Rails, and Git
+  * A Postgresql connection
+  * Create some data before running to see the Greatings
 ### Usage
 1. Install Ruby
 2. Install Rails
@@ -98,16 +97,6 @@ rails db:seed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- **Google authentication**
-- **More Class based features**
-- **More Student based features**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -152,6 +141,6 @@ We welcome any improvements if your changes are good and align with the project'
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
