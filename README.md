@@ -61,7 +61,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
   * A basic understanding of Ruby, Rails, and Git
   * A Postgresql connection
-  * Create some data before running to see the Greatings
+  * Create some data before running to see the Greetings.
 ### Usage
 1. Install Ruby
 2. Install Rails
@@ -121,7 +121,7 @@ Please support this project, your contribution can make a significant difference
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Original design idea by [ Murat Korkmaz on Behance.](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign)
+I would like to thank Microverse and my coding partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
