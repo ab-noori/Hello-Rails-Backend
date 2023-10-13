@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 EduPlanner-Backend <a name="about-project"></a>
+# 📖 Hello-Rails-Backend <a name="about-project"></a>
 
-**EduPlanner-Backend:** This is the Backend Api for the EduPlanner web application project. A rails based backend solution to storing class and student data from the EduPlanner web application.
+**Hello-Rails-Backend:** This project involves the creation of a React application. It includes implementing a routing system using 'react-router,' setting up a 'Greeting' component as a route within the 'App' component, and integrating Redux to fetch and display random greetings from an API endpoint.
 
 # Front End React app link <a name="FrontEnd-link"></a>
 
