@@ -8,7 +8,6 @@
   - [Link To The Frontend](#FrontEnd-link)
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -46,11 +45,6 @@
 - **Store data for the Hello-React website**
 - **Provide API endpoints for data retrieval**
 - **Provide server-side validations**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-This feature has not been implemented!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
