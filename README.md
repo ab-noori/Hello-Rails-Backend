@@ -91,21 +91,10 @@ rails db:seed
 
 ## 👥 Author <a name="authors"></a>
 
-👤 : **Gisa Chris**
-
-- GitHub: [@gisa chris](https://github.com/gisachris)
-- LinkedIn: [@gisa chris](https://linkedin.com/in/gisa-chris/)
-
 👤 : **Abdulali noori**
 
 - GitHub: [@Abdul Ali Noori](https://github.com/ab-noori)
 - LinkedIn: [@Abdul Ali Noori](https://linkedin.com/in/abdulali-noori)
-
-👤 : **Aimable BANCUNGUYE**
-
-- GitHub: [@Aimable BANCUNGUYE](https://github.com/BANCUNGUYE66)
-- LinkedIn: [@Aimable BANCUNGUYE](https://www.linkedin.com/in/aimable-bancunguye-aba703143/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
