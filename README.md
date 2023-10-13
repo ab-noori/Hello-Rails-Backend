@@ -28,7 +28,8 @@
 
 
 ## 🔗 Frontend Link <a name="documentation"></a>
-  > _My [Hello-React-Frontend](https://github.com/ab-noori/Hello-React-Frontend) code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the front end. To access our backend code, please click on the provided link below._
+  > _My [Hello-React-Frontend](https://github.com/ab-noori/Hello-React-Frontend) code is built using React and Redux and is hosted on a separate repository. The front end handles the user interface and integrates with my backend API to retrieve and display data. To access our backend code, please click [here](https://github.com/ab-noori/Hello-React-Frontend)._
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
